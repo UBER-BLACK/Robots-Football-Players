@@ -1,3 +1,3 @@
 # UBER BLACK
 
-[![GitHub license](https://img.shields.io/github/license/SiNDy4K/UBER-BLACK?style=plastic)](https://github.com/SiNDy4K/UBER-BLACK/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/UBER-BLACK/Robots-Football-Players)](https://github.com/UBER-BLACK/Robots-Football-Players/LICENCE)
