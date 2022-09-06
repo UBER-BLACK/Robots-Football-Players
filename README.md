@@ -4,3 +4,7 @@
 ![Stars](https://img.shields.io/github/stars/UBER-BLACK/Robots-Football-Players?style=for-the-badge)
 ![Activity](https://img.shields.io/github/commit-activity/m/UBER-BLACK/Robots-Football-Players?style=for-the-badge)
 ![Last-Update](https://img.shields.io/github/last-commit/UBER-BLACK/Robots-Football-Players?style=for-the-badge)
+## INSTALL
+```bash
+pip install pyTelegramBotAPI
+```
