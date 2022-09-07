@@ -4,5 +4,4 @@
 ![Activity](https://img.shields.io/github/commit-activity/m/UBER-BLACK/Robots-Football-Players?style=for-the-badge)
 ![Last-Update](https://img.shields.io/github/last-commit/UBER-BLACK/Robots-Football-Players?style=for-the-badge)
 ## TEAM LIST
-- **[Michael](https://GitHub.com/THEBIGMISHA/)**
-	- [SAMURAI](https://github.com/UBER-BLACK/Robots-Football-Players/tree/main/ROBOTS/SAMURAI)
+- ### **[Michael Nikolaev](https://GitHub.com/THEBIGMISHA/) - [SAMURAI](https://github.com/UBER-BLACK/Robots-Football-Players/tree/main/ROBOTS/SAMURAI)**
