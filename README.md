@@ -5,4 +5,4 @@
 [![Last-Update](https://img.shields.io/github/last-commit/UBER-BLACK/Robots-Football-Players?style=for-the-badge)](https://github.com/UBER-BLACK/Robots-Football-Players)
 # **TEAM LIST**
 - ### **[Michael Nikolaev](https://GitHub.com/THEBIGMISHA/) - [SAMURAI](https://github.com/UBER-BLACK/Robots-Football-Players/tree/main/ROBOTS/SAMURAI)**
-- ### **Michael Nikolaev - [Mr.Prepod](https://github.com/UBER-BLACK/Robots-Football-Players/tree/main/ROBOTS/MrPrepod)**
+- ### **Michael Nikolaev - [Mr.Prepod](https://github.com/UBER-BLACK/Robots-Football-Players/tree/main/ROBOTS/MR-PREPOD)**
