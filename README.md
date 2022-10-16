@@ -6,4 +6,4 @@
 # **TEAM LIST**
 - ### **[Michael Nikolaev](https://GitHub.com/THEBIGMISHA/) - [SAMURAI](https://github.com/UBER-BLACK/Robots-Football-Players/tree/main/ROBOTS/SAMURAI)**
 - ### **Nikita Gryaznov - [Mr.Prepod](https://github.com/UBER-BLACK/Robots-Football-Players/tree/main/ROBOTS/MR-PREPOD)**
-- ### **Sasha Degterev - [LUCKY!](https://github.com/UBER-BLACK/Robots-Football-Players/tree/main/ROBOTS/LUCKY)**
+- ### **Sasha Degterev - [LUCKY!](https://github.com/UBER-BLACK/Robots-Football-Players/tree/main/ROBOTS/LUCKY!)**
