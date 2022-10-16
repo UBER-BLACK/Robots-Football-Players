@@ -5,6 +5,6 @@
 [![Last-Update](https://img.shields.io/github/last-commit/UBER-BLACK/Robots-Football-Players?style=for-the-badge)](https://github.com/UBER-BLACK/Robots-Football-Players)
 # **TEAM LIST**
 - ### **[Michael Nikolaev](https://GitHub.com/THEBIGMISHA/) - [SAMURAI](https://github.com/UBER-BLACK/Robots-Football-Players/tree/main/ROBOTS/SAMURAI)**
-- ### **Nikita Gryaznov - [Mr.Prepod](https://github.com/UBER-BLACK/Robots-Football-Players/tree/main/ROBOTS/MR-PREPOD)**
+- ### **Nikita Gryaznov - [MR-PREPOD](https://github.com/UBER-BLACK/Robots-Football-Players/tree/main/ROBOTS/MR-PREPOD)**
 - ### **Alexander Degterev - [LUCKY!](https://github.com/UBER-BLACK/Robots-Football-Players/tree/main/ROBOTS/LUCKY!)**
-- ### **Alexey Andreevich - [LUCKY!](https://github.com/UBER-BLACK/Robots-Football-Players/tree/main/ROBOTS/BLACK-DRAGON!)**
+- ### **Alexey Andreevich - [BLACK-DRAGON](https://github.com/UBER-BLACK/Robots-Football-Players/tree/main/ROBOTS/BLACK-DRAGON)**
